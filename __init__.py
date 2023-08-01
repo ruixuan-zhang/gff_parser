@@ -1,0 +1,1 @@
+from .gff_parser import parse_gff3
